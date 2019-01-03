@@ -5,3 +5,4 @@ This repo contains all images included in Toon (Dutch Thermostat) modded resourc
 To point to these images you can follow this example:
 
 property url thumbnailIcon: "qrc:/tsc/repo.png"
+
