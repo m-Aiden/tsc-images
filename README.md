@@ -6,3 +6,4 @@ To point to these images you can follow this example:
 
 property url thumbnailIcon: "qrc:/tsc/repo.png"
 
+
